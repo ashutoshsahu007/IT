@@ -1,10 +1,10 @@
 -> talk to  10 developer in patna kisliye project k liye , knowledge k liye 
--> each college me ek web developer hai unse baat karo kisliye , 20k - 25k k job ke liye 
--> dav m apply karo -> 20k 
+-> each college/school/institute me ek web developer hai unse baat karo kisliye ,
+   20k - 25k k job ke liye 
+
+
 
 #small
-
- 
 
 
 
@@ -57,9 +57,9 @@
 7. 
 
 
+Big Projects in Bihar 
 
-
--> Taramandal website
+1. Taramandal website
 -> rajgir ticket counter
 -> college website 
 -> doglover 
